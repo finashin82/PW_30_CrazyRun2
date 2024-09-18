@@ -1588,7 +1588,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1521785009}
   serializedVersion: 4
-  m_Mass: 1
+  m_Mass: 0.1
   m_Drag: 0
   m_AngularDrag: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
@@ -13147,7 +13147,7 @@ PrefabInstance:
       objectReference: {fileID: 1340729176}
     - target: {fileID: 5219449851163063370, guid: 34c55a8424941b64a8e3779cfb41ca67, type: 3}
       propertyPath: maxTime
-      value: 5
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 5438168308896679250, guid: 34c55a8424941b64a8e3779cfb41ca67, type: 3}
       propertyPath: _textCoinCount
